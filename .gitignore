@@ -1,3 +1,20 @@
+#Android Files
+*.iml
+.gradle
+/local.properties
+.idea
+/build
+/captures
+
+*.apk
+*.ap_
+
+*.dex
+*.class
+bin/
+gen/
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
