@@ -1,7 +1,0 @@
-#Fri Sep 23 09:10:18 EDT 2016
-base.0=C\:\\Users\\mke6\\Documents\\GitHub\\AndroidExercise1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_465081d07053849f07e2172c9449e3937ba91ab2
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\mke6\\Documents\\GitHub\\AndroidExercise1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_67142cae75db93a1bc31196ccc80c5a8bcdbe0dc\\classes.dex
-base.1=C\:\\Users\\mke6\\Documents\\GitHub\\AndroidExercise1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_67142cae75db93a1bc31196ccc80c5a8bcdbe0dc
-file.0=C\:\\Users\\mke6\\Documents\\GitHub\\AndroidExercise1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_465081d07053849f07e2172c9449e3937ba91ab2\\classes.dex
