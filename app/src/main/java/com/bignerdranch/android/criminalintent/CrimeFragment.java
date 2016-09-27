@@ -39,6 +39,8 @@ public class CrimeFragment extends Fragment {
     private Button mDateButton;
     private CheckBox mSolvedCheckBox;
 
+    private Button mReportButton;
+
     public static final CrimeFragment newInstance(UUID crimeId) {
         Bundle args = new Bundle();
         args.putSerializable(ARG_CRIME_ID, crimeId);
@@ -149,4 +151,13 @@ public class CrimeFragment extends Fragment {
         CrimeLab.get(getActivity())
                 .updateCrime(mCrime);
     }
+
+    public Button getReportButton() {
+        return mReportButton;
+    }
+
+    public void setReportButton(Button reportButton) {
+        mReportButton = reportButton;
+    }
+
 }
