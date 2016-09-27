@@ -151,13 +151,4 @@ public class CrimeFragment extends Fragment {
         CrimeLab.get(getActivity())
                 .updateCrime(mCrime);
     }
-
-    public Button getReportButton() {
-        return mReportButton;
-    }
-
-    public void setReportButton(Button reportButton) {
-        mReportButton = reportButton;
-    }
-
 }
